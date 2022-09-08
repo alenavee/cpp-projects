@@ -1,0 +1,10 @@
+students-repos/
+private-tests/
+testing/
+cmake-build-debug/
+cmake-build-Debug/
+cmake-build-Release/
+cmake-build-RelWithDebInfo/
+.idea/
+.fixes-internal/
+.DS_store
